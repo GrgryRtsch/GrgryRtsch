@@ -15,14 +15,19 @@ As a Frequent User, I may want to contact the club to find out something more sp
 
 Colour Scheme
 I would like the hero colour to be blue. and maybe some darker greys and white.
+
 Typography
 I would like the main font to be used throughout the web pages to be Lato.
+
 Imagery
 I would like some of the imagery to be running behind the page. One of the images I have in mind would be a man pointing toward the contact info in ski gear.
-Wireframes
-
-Features
-Responsive on all device sizes, links to socials, contact info.
 
 Interactive elements
-Unsure as of yet.
+Able to navigate around the website and hopefully slight movment on certain highlighted ares zoom effect.
+
+Wireframes
+(sent seperately)
+
+Features
+Responsive on all device sizes, links to socials, contact info links to each page and a gallery.
+
