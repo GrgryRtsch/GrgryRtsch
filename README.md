@@ -46,6 +46,7 @@ This is the main website for Snowboarding Club. It is designed to be responsibe 
 ##  Wireframes
 
 -  <img src="https://github.com/GrgryRtsch/GrgryRtsch/blob/main/Wireframe.png">
+![wireframe hompage](https://github.com/GrgryRtsch/GrgryRtsch/assets/127130382/5980baf8-84e9-4bfa-948a-dbc7141ecffb)
 
 ##  Features
 
